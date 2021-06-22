@@ -1,0 +1,15 @@
+.employees{
+    margin: 1em;
+    width: 90%;
+    min-height: 22rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.7);
+    border: none;
+}
+.title{
+    font-style: italic;
+    font-size: larger;
+    
+}
